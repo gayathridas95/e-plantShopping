@@ -113,6 +113,13 @@
 .product-list-container.visible {
   top: 0;
 }
+.product-desc {
+  font-style: italic;
+}
+.product-cost {
+  color: red;
+}
+
 /* LandingPage.css */
 @media screen and (max-width: 768px) {
   .content {
